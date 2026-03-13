@@ -1,7 +1,4 @@
 fastapi
 uvicorn[standard]
-sqlalchemy
-passlib[bcrypt]
-python-jose[cryptography]
-python-multipart
 PyJWT
+python-multipart
