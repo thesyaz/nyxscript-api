@@ -18,8 +18,8 @@ app.add_middleware(
 SECRET_KEY = "nyxscript-secret-2025-change-this-in-prod"
 ALGORITHM = "HS256"
 DB_PATH = "nyxscript.db"
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "nyxadmin2025"  # Change this !
+ADMIN_USERNAME = "Syaz"
+ADMIN_PASSWORD = "BIL66lara#"  # Change this !
 
 security = HTTPBearer()
 
